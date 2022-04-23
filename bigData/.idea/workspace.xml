@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ecadac7d-bfa7-40fd-a4e3-acb9dd659f98" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="20" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Django default" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Django default" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Django default" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mysqldb: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Django default" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mysqldb: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="qiubai: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="bigData" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/thinkpadQz/thinkpadQz/spiders/thinkpad.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+              <folding>
+                <element signature="e#24#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/manage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" selection-end-line="1" />
+              <folding>
+                <element signature="e#22#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/thinkpadQz/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/thinkpadQz/thinkpadQz/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bigData/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bigData/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1710">
+              <caret line="91" selection-start-line="91" selection-end-line="91" />
+              <folding>
+                <element signature="e#309#318#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bigData/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="e#631#663#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bigData/wsgi.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/thinkpadQz/thinkpadQz/spiders/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/thinkpadQz/thinkpadQz/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="20" column="67" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="67" />
+              <folding>
+                <element signature="e#193#228#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/bigData/settings.py" />
+        <option value="$PROJECT_DIR$/qiubaiPro/qiubaiPro/items.py" />
+        <option value="$PROJECT_DIR$/qiubaiPro/qiubai.txt" />
+        <option value="$PROJECT_DIR$/qiubaiPro/qiubaiPro/settings.py" />
+        <option value="$PROJECT_DIR$/qiubaiPro/qiubaiPro/pipelines.py" />
+        <option value="$PROJECT_DIR$/thinkTJ/thinkTJ/items.py" />
+        <option value="$PROJECT_DIR$/qiubaiPro/qiubaiPro/spiders/qiubai.py" />
+        <option value="$PROJECT_DIR$/thinkTJ/thinkTJ/settings.py" />
+        <option value="$PROJECT_DIR$/thinkTJ/thinkTJ/pipelines.py" />
+        <option value="$PROJECT_DIR$/thinkTJ/thinkTJ/spiders/think.py" />
+        <option value="$PROJECT_DIR$/thinkpadQz/thinkpadQz/settings.py" />
+        <option value="$PROJECT_DIR$/thinkpadQz/thinkpadQz/models.py" />
+        <option value="$PROJECT_DIR$/thinkpadQz/models.py" />
+        <option value="$PROJECT_DIR$/thinkpadQz/manage.py" />
+        <option value="$PROJECT_DIR$/thinkpadQz/thinkpadQz/items.py" />
+        <option value="$PROJECT_DIR$/thinkpadQz/thinkpadQz/pipelines.py" />
+        <option value="$PROJECT_DIR$/steam/steam/settings.py" />
+        <option value="$PROJECT_DIR$/steam/steam/spiders/mysteam.py" />
+        <option value="$PROJECT_DIR$/thinkpadQz/thinkpadQz/spiders/thinkpad.py" />
+        <option value="$PROJECT_DIR$/thinkpadQz/main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="332" />
+    <option name="y" value="22" />
+    <option name="width" value="2488" />
+    <option name="height" value="1760" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bigData" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigData" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="bigData" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="E:\python\bigData" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="bigData" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="E:\python\bigData" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="bd01" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="bigData" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="E:\python\bigData" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="bigData" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="bigData" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="E:\python\bigData" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="qiubaiPro" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="bigData" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="E:\python\bigData" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="steam" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="bigData" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="E:\python\bigData" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="thinkpadQz" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="bigData" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="E:\python\bigData" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="thinkpadQz" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="thinkpadQz" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="bigData" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="E:\python\bigData" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="thinkTJ" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="CSS&#10;ClickHouse" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ztree" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\python\bigData\thinkpadQz" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bigData" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/thinkpadQz" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/thinkpadQz/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bigData" type="Python.DjangoServer" factoryName="Django server">
+      <module name="bigData" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="bigData.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ecadac7d-bfa7-40fd-a4e3-acb9dd659f98" name="Default Changelist" comment="" />
+      <created>1636290702249</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636290702249</updated>
+      <workItem from="1636290704749" duration="1044000" />
+      <workItem from="1636291883493" duration="623000" />
+      <workItem from="1636292524498" duration="2624000" />
+      <workItem from="1636359028566" duration="10000" />
+      <workItem from="1636359213612" duration="1317000" />
+      <workItem from="1636547912776" duration="3996000" />
+      <workItem from="1636592789424" duration="7212000" />
+      <workItem from="1636622410288" duration="4571000" />
+      <workItem from="1636637090755" duration="3009000" />
+      <workItem from="1636640134101" duration="962000" />
+      <workItem from="1636676468026" duration="348000" />
+      <workItem from="1636676961046" duration="1296000" />
+      <workItem from="1636678347961" duration="116000" />
+      <workItem from="1636687699694" duration="1775000" />
+      <workItem from="1636689499472" duration="9034000" />
+      <workItem from="1636764872687" duration="8215000" />
+      <workItem from="1636776081324" duration="3520000" />
+      <workItem from="1636789858484" duration="8644000" />
+      <workItem from="1636813787104" duration="700000" />
+      <workItem from="1636814520727" duration="1582000" />
+      <workItem from="1636816166826" duration="1602000" />
+      <workItem from="1636853818421" duration="661000" />
+      <workItem from="1636854497135" duration="351000" />
+      <workItem from="1636854864908" duration="772000" />
+      <workItem from="1636855657871" duration="516000" />
+      <workItem from="1636856243416" duration="1125000" />
+      <workItem from="1636878693764" duration="663000" />
+      <workItem from="1636879373613" duration="803000" />
+      <workItem from="1636892387127" duration="3841000" />
+      <workItem from="1636898831582" duration="182000" />
+      <workItem from="1636979808547" duration="6029000" />
+      <workItem from="1637136903933" duration="379000" />
+      <workItem from="1637137414470" duration="219000" />
+      <workItem from="1637137929625" duration="1048000" />
+      <workItem from="1637139902892" duration="425000" />
+      <workItem from="1637140347301" duration="877000" />
+      <workItem from="1637141888823" duration="206000" />
+      <workItem from="1637142121100" duration="5607000" />
+      <workItem from="1637194884656" duration="9471000" />
+      <workItem from="1637226438525" duration="3098000" />
+      <workItem from="1637237957555" duration="12000" />
+      <workItem from="1637238001514" duration="2021000" />
+      <workItem from="1637245380057" duration="191000" />
+      <workItem from="1637280414510" duration="3000" />
+      <workItem from="1637293140187" duration="3000" />
+      <workItem from="1637332423939" duration="40000" />
+      <workItem from="1637411738850" duration="2765000" />
+      <workItem from="1637415032715" duration="1645000" />
+      <workItem from="1637566413884" duration="27000" />
+      <workItem from="1637674676392" duration="6000" />
+      <workItem from="1638714705555" duration="2000" />
+      <workItem from="1640438175896" duration="853000" />
+      <workItem from="1640439098424" duration="855000" />
+      <workItem from="1641085072168" duration="1840000" />
+      <workItem from="1641109525010" duration="4348000" />
+      <workItem from="1641125609936" duration="5913000" />
+      <workItem from="1641177934733" duration="19000" />
+      <workItem from="1641178071674" duration="594000" />
+      <workItem from="1641478564582" duration="738000" />
+      <workItem from="1641556709938" duration="7146000" />
+      <workItem from="1641691724076" duration="4470000" />
+      <workItem from="1641729164155" duration="1998000" />
+      <workItem from="1641776659263" duration="473000" />
+      <workItem from="1641777182227" duration="29000" />
+      <workItem from="1642042236060" duration="6889000" />
+      <workItem from="1642214041263" duration="101000" />
+      <workItem from="1648294831802" duration="96000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="141550000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="166" y="11" width="1244" height="880" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8023649" visible="true" weight="0.37710437" />
+      <window_info id="Structure" order="1" sideWeight="0.19763513" side_tool="true" weight="0.24914207" />
+      <window_info id="Favorites" order="2" sideWeight="0.5010941" side_tool="true" weight="0.2631579" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.496633" weight="0.379494" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49965683" weight="0.32826748" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.503367" side_tool="true" weight="0.53395474" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49897048" weight="0.33155793" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49965683" weight="0.31557924" />
+      <window_info anchor="bottom" id="Database Console" order="13" weight="0.32894737" />
+      <window_info anchor="bottom" x="465" y="494" width="607" height="224" id="Regex Tester" order="14" sideWeight="0.4975329" weight="0.32826748" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="15" weight="0.32756326" />
+      <window_info anchor="right" id="Word Book" order="0" side_tool="true" />
+      <window_info anchor="right" id="Translation Assistant" order="1" weight="0.32935154" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="right" id="Database" order="5" weight="0.091283455" />
+      <window_info anchor="right" id="SciView" order="6" weight="0.32935154" />
+      <window_info active="true" anchor="right" id="Coverage" order="7" side_tool="true" visible="true" weight="0.0959596" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8023649" visible="true" weight="0.24914207" />
+      <window_info id="Structure" order="1" sideWeight="0.19763513" side_tool="true" visible="true" weight="0.24914207" />
+      <window_info id="Favorites" order="2" sideWeight="0.5010941" side_tool="true" weight="0.2631579" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4975978" weight="0.534689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49965683" weight="0.32826748" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5024022" side_tool="true" weight="0.534689" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49897048" visible="true" weight="0.29186603" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49965683" weight="0.3181818" />
+      <window_info anchor="bottom" id="Database Console" order="13" weight="0.32894737" />
+      <window_info anchor="bottom" x="465" y="494" width="607" height="224" id="Regex Tester" order="14" sideWeight="0.4975329" weight="0.32826748" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="15" visible="true" weight="0.32894737" />
+      <window_info anchor="right" id="Word Book" order="0" side_tool="true" />
+      <window_info anchor="right" id="Translation Assistant" order="1" weight="0.32935154" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="right" id="Database" order="5" visible="true" weight="0.091283455" />
+      <window_info anchor="right" id="SciView" order="6" weight="0.32935154" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/bigData$main.coverage" NAME="main Coverage Results" MODIFIED="1648294839829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thinkpadQz" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/9c8e050d-fcf9-4fba-857e-e650b2750f56/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/7d19f0f3-85d4-45ba-97eb-769236c3aaf8/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://2ef69722-8943-4bf9-a9d8-1d8b1a07908a/schema/mysqldb/table/auth_user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bd01/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qiubaiPro/qiubai.csv" />
+    <entry file="file://D:/bwx/4tools/0.python/python38/Lib/site-packages/parsel/selector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="253" selection-start-line="253" selection-end-line="253" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/bwx/4tools/0.python/python38/Lib/typing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1680">
+          <caret line="319" column="8" selection-start-line="319" selection-start-column="8" selection-end-line="319" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/builtins.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="869" column="95" selection-start-line="869" selection-start-column="95" selection-end-line="869" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python38/site-packages/scrapy/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="93" column="70" lean-forward="true" selection-start-line="93" selection-start-column="70" selection-end-line="93" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qiubaiPro/b.csv" />
+    <entry file="file://$PROJECT_DIR$/qiubaiPro/qiubai.txt" />
+    <entry file="file://D:/bwx/4tools/0.python/python38/Lib/site-packages/twisted/internet/defer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="1528" selection-start-line="1528" selection-end-line="1528" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://2ef69722-8943-4bf9-a9d8-1d8b1a07908a/schema/mysqldb/table/qiubai">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python38/site-packages/scrapy/crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2714">
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qiubaiPro/qiubaiPro/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qiubaiPro/qiubaiPro/spiders/qiubai.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qiubaiPro/qiubaiPro/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="64" column="18" selection-start-line="64" selection-start-column="18" selection-end-line="64" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qiubaiPro/qiubaiPro/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="36" column="58" selection-start-line="36" selection-start-column="52" selection-end-line="36" selection-end-column="58" />
+          <folding>
+            <element signature="e#238#273#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thinkTJ/thinkTJ/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thinkTJ/thinkTJ/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-437">
+          <caret line="22" column="19" selection-start-line="22" selection-end-line="22" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thinkTJ/thinkTJ/spiders/think.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="8" column="124" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="124" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thinkpadQz/scrapy.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thinkTJ/thinkTJ/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#193#228#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/third_party/thriftpy/_shaded_thriftpy/thrift.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="141" column="49" selection-start-line="141" selection-start-column="49" selection-end-line="141" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thinkpadQz/thinkpadQz/models.py" />
+    <entry file="file://$PROJECT_DIR$/thinkpadQz/manage.py" />
+    <entry file="file://$PROJECT_DIR$/thinkpadQz/models.py" />
+    <entry file="file://$PROJECT_DIR$/bd01/models.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thinkpadQz/thinkpadQz/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-570" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thinkpadQz/thinkpadQz/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="23" column="19" selection-start-line="23" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/steam/steam/spiders/mysteam.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="83" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="83" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/steam/steam/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thinkpadQz/thinkpadQz/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ztree/ztree/manage.py" />
+    <entry file="file://D:/bwx/4tools/0.python/python38/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-128">
+          <caret line="321" selection-start-line="321" selection-end-line="321" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thinkpadQz/thinkpadQz/spiders/thinkpad.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thinkpadQz/thinkpadQz/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigData/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigData/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1710">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+          <folding>
+            <element signature="e#309#318#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigData/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#631#663#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigData/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thinkpadQz/thinkpadQz/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thinkpadQz/thinkpadQz/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="20" column="67" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="67" />
+          <folding>
+            <element signature="e#193#228#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thinkpadQz/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#22#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="regexState">
+    <option name="map">
+      <map>
+        <entry key="flags" value="0" />
+        <entry key="mode" value="0" />
+        <entry key="regex" value="[0-9]&#10;" />
+        <entry key="text" value="&#10;" />
+      </map>
+    </option>
+  </component>
+</project>
